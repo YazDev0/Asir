@@ -6846,12 +6846,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: wallJumpForce
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: wallLayer.m_Bits
       value: 128
       objectReference: {fileID: 0}
     - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: groundLayer.m_Bits
       value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: wallJumpDirection.x
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: wallJumpDirection.y
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 5091464971173528938, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_Name
