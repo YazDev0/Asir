@@ -7062,6 +7062,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1560122594925972254, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.38010216
+      objectReference: {fileID: 0}
+    - target: {fileID: 1560122594925972254, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.008316517
+      objectReference: {fileID: 0}
     - target: {fileID: 1752308946773100613, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_Material
       value: 
@@ -7107,12 +7115,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: groundCheck
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: wallJumpForce
       value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: wallLayer.m_Bits
       value: 128
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: groundCheckRadius
+      value: 0.32
       objectReference: {fileID: 0}
     - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: groundLayer.m_Bits
@@ -7130,12 +7146,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: frame_000_0
       objectReference: {fileID: 0}
+    - target: {fileID: 7658322785001375557, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.24547294
+      objectReference: {fileID: 0}
+    - target: {fileID: 7658322785001375557, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_Size.y
+      value: 0.12463796
+      objectReference: {fileID: 0}
+    - target: {fileID: 7658322785001375557, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.05107923
+      objectReference: {fileID: 0}
+    - target: {fileID: 7658322785001375557, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.39756304
+      objectReference: {fileID: 0}
     - target: {fileID: 9059888649449525854, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_Avatar
       value: 
       objectReference: {fileID: 9000000, guid: 753033b53c0fbc440b78a31104fbced9, type: 3}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 7476172012023691784, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
