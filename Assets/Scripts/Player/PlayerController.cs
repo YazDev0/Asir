@@ -38,6 +38,7 @@ public class PlayerController : MonoBehaviour
     private float wallJumpCooldown = 0f;
     private bool canWallJump = true;
     private float lastXDirection = 1f;
+    private bool wasFalling = false;
 
     public enum PlayerColor
     {
@@ -80,6 +81,8 @@ public class PlayerController : MonoBehaviour
         HandleColorChange();
         HandleCooldowns();
         UpdateAnimations();
+        CheckFallState();
+        CheckLanding();
     }
 
     void CreateGroundCheck()
@@ -187,7 +190,10 @@ public class PlayerController : MonoBehaviour
         {
             PerformJump(jumpForce);
             if (animator != null)
+            {
                 animator.SetTrigger("Jump");
+                animator.SetBool("IsJumping", true);
+            }
         }
     }
 
@@ -209,7 +215,10 @@ public class PlayerController : MonoBehaviour
         canWallJump = false;
 
         if (animator != null)
+        {
             animator.SetTrigger("WallJump");
+            animator.SetBool("IsJumping", true);
+        }
 
         Debug.Log($"🦎 Wall Jump! Direction: {jumpDirection}");
     }
@@ -297,12 +306,67 @@ public class PlayerController : MonoBehaviour
     {
         if (animator == null) return;
 
+        float verticalVelocity = rb.linearVelocity.y;
+
         animator.SetBool("IsGrounded", isGrounded);
         animator.SetBool("IsWallSliding", isWallSliding);
         animator.SetFloat("MoveSpeed", Mathf.Abs(rb.linearVelocity.x));
-        animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
+        animator.SetFloat("VerticalVelocity", verticalVelocity);
         animator.SetBool("IsTouchingWall", isTouchingWall);
         animator.SetInteger("PlayerColor", (int)currentColor);
+
+        // منطق القفز والسقوط المنفصل
+        bool isJumping = verticalVelocity > 0.5f && !isGrounded && !isWallSliding;
+        bool isFalling = verticalVelocity < -0.5f && !isGrounded && !isWallSliding;
+
+        animator.SetBool("IsJumping", isJumping);
+        animator.SetBool("IsFalling", isFalling);
+
+        // إعادة تعيين المحفزات عند الهبوط
+        if (isGrounded && (isJumping || isFalling))
+        {
+            animator.ResetTrigger("Jump");
+            animator.ResetTrigger("Fall");
+            animator.SetBool("IsJumping", false);
+            animator.SetBool("IsFalling", false);
+        }
+    }
+
+    void CheckFallState()
+    {
+        // إذا كان يسقط ولمس الجدار، لا يعتبر falling عادي
+        if (isWallSliding)
+        {
+            animator.SetBool("IsFalling", false);
+            return;
+        }
+
+        // الكشف عن السقوط الحقيقي
+        if (!isGrounded && rb.linearVelocity.y < -2f)
+        {
+            if (animator != null && !animator.GetBool("IsFalling"))
+            {
+                animator.SetTrigger("Fall");
+                animator.SetBool("IsFalling", true);
+                animator.SetBool("IsJumping", false);
+            }
+        }
+    }
+
+    void CheckLanding()
+    {
+        if (wasFalling && isGrounded)
+        {
+            // هبوط ناجح - يمكنك إضافة تأثيرات هنا
+            if (animator != null)
+            {
+                animator.SetTrigger("Land");
+                animator.SetBool("IsFalling", false);
+                animator.SetBool("IsJumping", false);
+            }
+        }
+
+        wasFalling = !isGrounded && rb.linearVelocity.y < -0.1f;
     }
 
     public PlayerColor GetPlayerColorType()
