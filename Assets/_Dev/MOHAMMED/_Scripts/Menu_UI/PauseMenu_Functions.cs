@@ -10,7 +10,12 @@ public class PauseMenu_Functions : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape) && pauseMenu.activeSelf == false)
         {
             Pause();
-            Debug.Log("Pressed");
+            Debug.Log("PressedT");
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape) && pauseMenu.activeSelf == true)
+        {
+            Resume();
+            Debug.Log("PressedF");
         }
     }
     //
