@@ -7,6 +7,7 @@ TagManager:
   - ColorBox
   - Platform
   - Ground
+  - Object
   layers:
   - Default
   - TransparentFX
