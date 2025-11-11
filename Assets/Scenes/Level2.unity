@@ -3708,7 +3708,7 @@ Transform:
   m_GameObject: {fileID: 398801818}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.65, y: 4.4557076, z: 0.068793096}
+  m_LocalPosition: {x: -5.71, y: 4.4557076, z: 0.068793096}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3727,6 +3727,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxColor: 1
+  hdrGlowColor: {r: 1, g: 0, b: 0, a: 1}
+  glowExposure: 2
+  pulseSpeed: 1.5
+  pulseIntensity: 0.5
+  activeDuration: 3
 --- !u!61 &398801821
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5922,6 +5927,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxColor: 1
+  hdrGlowColor: {r: 1, g: 0, b: 0, a: 1}
+  glowExposure: 2
+  pulseSpeed: 1.5
+  pulseIntensity: 0.5
+  activeDuration: 3
 --- !u!61 &566538893
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11191,7 +11201,7 @@ Transform:
   m_GameObject: {fileID: 980949594}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.28, y: -2.3600001, z: -10}
+  m_LocalPosition: {x: -13.62, y: -2.3100002, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15156,11 +15166,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2012418719665613916, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.28
+      value: -13.62
       objectReference: {fileID: 0}
     - target: {fileID: 2012418719665613916, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.36
+      value: -2.31
       objectReference: {fileID: 0}
     - target: {fileID: 2012418719665613916, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -15195,8 +15205,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: dustParticle
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: colorDuration
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840063359815492203, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: wallCheckDistance
       value: 0.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 4662846498008651082, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4662846498008651085, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.81
       objectReference: {fileID: 0}
     - target: {fileID: 5091464971173528938, guid: e1218d5475ad30a4e873cb8ea9ee3b2d, type: 3}
       propertyPath: m_Name
@@ -16453,11 +16479,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5550550718676508223, guid: 015c8c1770d6735409b55d4b7f696144, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.28
+      value: -13.62
       objectReference: {fileID: 0}
     - target: {fileID: 5550550718676508223, guid: 015c8c1770d6735409b55d4b7f696144, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.3600001
+      value: -2.3100002
       objectReference: {fileID: 0}
     - target: {fileID: 5550550718676508223, guid: 015c8c1770d6735409b55d4b7f696144, type: 3}
       propertyPath: m_LocalPosition.z
@@ -18035,6 +18061,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxColor: 1
+  hdrGlowColor: {r: 1, g: 0, b: 0, a: 1}
+  glowExposure: 2
+  pulseSpeed: 1.5
+  pulseIntensity: 0.5
+  activeDuration: 5
 --- !u!212 &1382118524
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21540,6 +21571,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxColor: 0
+  hdrGlowColor: {r: 1, g: 0, b: 0, a: 1}
+  glowExposure: 2
+  pulseSpeed: 1.5
+  pulseIntensity: 0.5
+  activeDuration: 3
 --- !u!1 &1562853482
 GameObject:
   m_ObjectHideFlags: 0
@@ -25288,6 +25324,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxColor: 0
+  hdrGlowColor: {r: 1, g: 0, b: 0, a: 1}
+  glowExposure: 2
+  pulseSpeed: 1.5
+  pulseIntensity: 0.5
+  activeDuration: 3
 --- !u!61 &1689001273
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -63143,7 +63184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveDistance: 25.1
-  moveSpeed: 0.5
+  moveSpeed: 0.2
   continuousMovement: 0
   movementDirection: 1
   movementSound: {fileID: 0}
@@ -63182,6 +63223,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boxColor: 1
+  hdrGlowColor: {r: 1, g: 0, b: 0, a: 1}
+  glowExposure: 2
+  pulseSpeed: 1.5
+  pulseIntensity: 0.5
+  activeDuration: 5
 --- !u!212 &1897408839
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -64951,6 +64997,55 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2120504388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2120504390}
+  - component: {fileID: 2120504389}
+  m_Layer: 0
+  m_Name: Global Volume
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2120504389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2120504388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IsGlobal: 1
+  priority: 0
+  blendDistance: 0
+  weight: 1
+  sharedProfile: {fileID: 11400000, guid: 3f9215ea0144899419cfbc0957140d3f, type: 2}
+--- !u!4 &2120504390
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2120504388}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.5993577, y: 0.74142796, z: 0.07262035}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2130232579
 GameObject:
   m_ObjectHideFlags: 0
@@ -65135,7 +65230,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 137388514915943133, guid: c321b719c3eb7604d98f88269a0ca9b4, type: 3}
       propertyPath: boxColor
-      value: 2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 137388514915943133, guid: c321b719c3eb7604d98f88269a0ca9b4, type: 3}
+      propertyPath: glowSpeed
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 137388514915943133, guid: c321b719c3eb7604d98f88269a0ca9b4, type: 3}
+      propertyPath: glowIntensity
+      value: 5.76
       objectReference: {fileID: 0}
     - target: {fileID: 150047341576682167, guid: c321b719c3eb7604d98f88269a0ca9b4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -65201,3 +65304,4 @@ SceneRoots:
   - {fileID: 653642873}
   - {fileID: 1569267127}
   - {fileID: 239161792}
+  - {fileID: 2120504390}
