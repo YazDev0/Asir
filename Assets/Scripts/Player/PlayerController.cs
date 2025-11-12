@@ -216,7 +216,7 @@ public class PlayerController : MonoBehaviour
             footstepTimer -= Time.deltaTime;
             if (footstepTimer <= 0f)
             {
-                PlaySound(footstepSound, 0.3f);
+                PlaySound(footstepSound, 0.8f);
                 footstepTimer = footstepDelay;
 
                 if (dustParticle != null && !dustParticle.isPlaying)
@@ -314,7 +314,7 @@ public class PlayerController : MonoBehaviour
 
     void ActivateColor()
     {
-        PlaySound(colorChangeSound, 0.4f);
+        PlaySound(colorChangeSound, 0.1f);
 
         StartColorParticle();
 
