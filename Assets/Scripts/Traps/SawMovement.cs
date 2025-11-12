@@ -1,13 +1,19 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using UnityEngine.Audio;
 
 public class SawMovement : MonoBehaviour
 {
     [Header("Movement Settings")]
+    public MovementType movementType = MovementType.DistanceBased;
     public float moveDistance = 3f;
     public float moveSpeed = 2f;
     public bool continuousMovement = true;
     public MovementDirection movementDirection = MovementDirection.Horizontal;
+    public StartPosition startFrom = StartPosition.CurrentPosition; // Ù†Ù‚Ø·Ø© Ø§Ù„Ø¨Ø¯Ø§ÙŠØ©
+
+    [Header("Point Based Movement")]
+    public Transform pointA;
+    public Transform pointB;
 
     [Header("Sound Settings")]
     public AudioClip movementSound;
@@ -27,17 +33,30 @@ public class SawMovement : MonoBehaviour
         Vertical
     }
 
+    public enum MovementType
+    {
+        DistanceBased,
+        PointBased
+    }
+
+    public enum StartPosition
+    {
+        CurrentPosition,    // ØªØ¨Ø¯Ø£ Ù…Ù† Ù…ÙƒØ§Ù†Ù‡Ø§ Ø§Ù„Ø­Ø§Ù„ÙŠ
+        PointA,            // ØªØ¨Ø¯Ø£ Ù…Ù† Ø§Ù„Ù†Ù‚Ø·Ø© A
+        PointB,            // ØªØ¨Ø¯Ø£ Ù…Ù† Ø§Ù„Ù†Ù‚Ø·Ø© B
+        Middle             // ØªØ¨Ø¯Ø£ Ù…Ù† Ø§Ù„Ù…Ù†ØªØµÙ
+    }
+
     void Start()
     {
-        startPosition = transform.position;
+        InitializeStartPosition();
         CalculatePositions();
 
-        // ÅÖÇİÉ AudioSource ÊáŞÇÆíÇğ
+        // Ø¥Ø¶Ø§ÙØ© AudioSource ØªÙ„Ù‚Ø§Ø¦ÙŠØ§Ù‹
         audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.volume = soundVolume;
         audioSource.loop = true;
 
-        // ÊÔÛíá ÕæÊ ÇáÍÑßÉ ÅĞÇ ßÇä ãÊæİÑÇğ
         if (movementSound != null && soundEnabled)
         {
             audioSource.clip = movementSound;
@@ -45,8 +64,78 @@ public class SawMovement : MonoBehaviour
         }
     }
 
+    void InitializeStartPosition()
+    {
+        if (movementType == MovementType.DistanceBased)
+        {
+            // Ù„Ù„Ø­Ø±ÙƒØ© Ø¨Ø§Ù„Ù…Ø³Ø§ÙØ©
+            switch (startFrom)
+            {
+                case StartPosition.CurrentPosition:
+                    startPosition = transform.position;
+                    break;
+                case StartPosition.PointA:
+                    startPosition = transform.position;
+                    transform.position = positionA;
+                    break;
+                case StartPosition.PointB:
+                    startPosition = transform.position;
+                    transform.position = positionB;
+                    break;
+                case StartPosition.Middle:
+                    startPosition = transform.position;
+                    // Ù„Ù„Ù…Ø³Ø§ÙØ© Ø¨ÙŠÙƒÙˆÙ† Ø§Ù„Ù…Ù†ØªØµÙ Ù‡Ùˆ startPosition Ù†ÙØ³Ù‡
+                    break;
+            }
+        }
+        else
+        {
+            // Ù„Ù„Ø­Ø±ÙƒØ© Ø¨Ø§Ù„Ù†Ù‚Ø§Ø·
+            if (pointA != null && pointB != null)
+            {
+                switch (startFrom)
+                {
+                    case StartPosition.CurrentPosition:
+                        startPosition = transform.position;
+                        break;
+                    case StartPosition.PointA:
+                        transform.position = pointA.position;
+                        startPosition = transform.position;
+                        movingToB = true;
+                        break;
+                    case StartPosition.PointB:
+                        transform.position = pointB.position;
+                        startPosition = transform.position;
+                        movingToB = false;
+                        break;
+                    case StartPosition.Middle:
+                        transform.position = (pointA.position + pointB.position) / 2f;
+                        startPosition = transform.position;
+                        movingToB = true;
+                        break;
+                }
+            }
+            else
+            {
+                startPosition = transform.position;
+            }
+        }
+    }
+
     void Update()
     {
+        if (movementType == MovementType.PointBased)
+        {
+            if (pointA == null || pointB == null)
+            {
+                Debug.LogError("âŒ Please assign Point A and Point B for point-based movement!");
+                return;
+            }
+
+            positionA = pointA.position;
+            positionB = pointB.position;
+        }
+
         if (continuousMovement)
         {
             MoveContinuously();
@@ -56,35 +145,45 @@ public class SawMovement : MonoBehaviour
             MoveBetweenPoints();
         }
 
-        // ÊÍÏíË ÅÚÏÇÏÇÊ ÇáÕæÊ
         UpdateSoundSettings();
     }
 
     void CalculatePositions()
     {
-        if (movementDirection == MovementDirection.Horizontal)
+        if (movementType == MovementType.DistanceBased)
         {
-            positionA = startPosition + Vector3.left * moveDistance;
-            positionB = startPosition + Vector3.right * moveDistance;
-        }
-        else
-        {
-            positionA = startPosition + Vector3.down * moveDistance;
-            positionB = startPosition + Vector3.up * moveDistance;
+            if (movementDirection == MovementDirection.Horizontal)
+            {
+                positionA = startPosition + Vector3.left * moveDistance;
+                positionB = startPosition + Vector3.right * moveDistance;
+            }
+            else
+            {
+                positionA = startPosition + Vector3.down * moveDistance;
+                positionB = startPosition + Vector3.up * moveDistance;
+            }
         }
     }
 
     void MoveContinuously()
     {
-        float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance * 2) - moveDistance;
-
-        if (movementDirection == MovementDirection.Horizontal)
+        if (movementType == MovementType.DistanceBased)
         {
-            transform.position = startPosition + Vector3.right * movement;
+            float movement = Mathf.PingPong(Time.time * moveSpeed, moveDistance * 2) - moveDistance;
+
+            if (movementDirection == MovementDirection.Horizontal)
+            {
+                transform.position = startPosition + Vector3.right * movement;
+            }
+            else
+            {
+                transform.position = startPosition + Vector3.up * movement;
+            }
         }
         else
         {
-            transform.position = startPosition + Vector3.up * movement;
+            float t = Mathf.PingPong(Time.time * moveSpeed, 1f);
+            transform.position = Vector3.Lerp(positionA, positionB, t);
         }
     }
 
@@ -96,7 +195,6 @@ public class SawMovement : MonoBehaviour
         if (Vector3.Distance(transform.position, targetPosition) < 0.01f)
         {
             movingToB = !movingToB;
-            // ÊÔÛíá ÕæÊ ÚäÏ ÇáÇÕØÏÇã (ÊÛííÑ ÇáÇÊÌÇå)
             PlayCollisionSound();
         }
     }
@@ -117,7 +215,7 @@ public class SawMovement : MonoBehaviour
         }
     }
 
-    // ÏæÇá ÇáÊÍßã ÈÇáÕæÊ
+    // Ø¯ÙˆØ§Ù„ Ø§Ù„ØªØ­ÙƒÙ… Ø¨Ø§Ù„ØµÙˆØª
     public void ToggleSound()
     {
         soundEnabled = !soundEnabled;
@@ -150,38 +248,95 @@ public class SawMovement : MonoBehaviour
         movingToB = true;
     }
 
+    public void ChangeMovementType(MovementType newType)
+    {
+        movementType = newType;
+        if (movementType == MovementType.DistanceBased)
+        {
+            startPosition = transform.position;
+            CalculatePositions();
+        }
+        movingToB = true;
+    }
+
+    public void ChangeStartPosition(StartPosition newStartPosition)
+    {
+        startFrom = newStartPosition;
+        InitializeStartPosition();
+        CalculatePositions();
+    }
+
     public void ResetToStartPosition()
     {
-        transform.position = startPosition;
+        InitializeStartPosition();
         movingToB = true;
         CalculatePositions();
     }
 
     void OnDrawGizmosSelected()
     {
-        if (Application.isPlaying)
+        if (movementType == MovementType.DistanceBased)
         {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(positionA, 0.2f);
-            Gizmos.DrawWireSphere(positionB, 0.2f);
-            Gizmos.DrawLine(positionA, positionB);
-        }
-        else
-        {
-            Gizmos.color = Color.red;
-            Vector3 currentPos = transform.position;
-
-            if (movementDirection == MovementDirection.Horizontal)
+            if (Application.isPlaying)
             {
-                Gizmos.DrawWireSphere(currentPos + Vector3.left * moveDistance, 0.2f);
-                Gizmos.DrawWireSphere(currentPos + Vector3.right * moveDistance, 0.2f);
-                Gizmos.DrawLine(currentPos + Vector3.left * moveDistance, currentPos + Vector3.right * moveDistance);
+                Gizmos.color = Color.red;
+                Gizmos.DrawWireSphere(positionA, 0.2f);
+                Gizmos.DrawWireSphere(positionB, 0.2f);
+                Gizmos.DrawLine(positionA, positionB);
             }
             else
             {
-                Gizmos.DrawWireSphere(currentPos + Vector3.down * moveDistance, 0.2f);
-                Gizmos.DrawWireSphere(currentPos + Vector3.up * moveDistance, 0.2f);
-                Gizmos.DrawLine(currentPos + Vector3.down * moveDistance, currentPos + Vector3.up * moveDistance);
+                Gizmos.color = Color.red;
+                Vector3 currentPos = transform.position;
+
+                if (movementDirection == MovementDirection.Horizontal)
+                {
+                    Gizmos.DrawWireSphere(currentPos + Vector3.left * moveDistance, 0.2f);
+                    Gizmos.DrawWireSphere(currentPos + Vector3.right * moveDistance, 0.2f);
+                    Gizmos.DrawLine(currentPos + Vector3.left * moveDistance, currentPos + Vector3.right * moveDistance);
+                }
+                else
+                {
+                    Gizmos.DrawWireSphere(currentPos + Vector3.down * moveDistance, 0.2f);
+                    Gizmos.DrawWireSphere(currentPos + Vector3.up * moveDistance, 0.2f);
+                    Gizmos.DrawLine(currentPos + Vector3.down * moveDistance, currentPos + Vector3.up * moveDistance);
+                }
+            }
+        }
+        else
+        {
+            Gizmos.color = Color.blue;
+            if (pointA != null)
+            {
+                Gizmos.DrawWireSphere(pointA.position, 0.3f);
+            }
+            if (pointB != null)
+            {
+                Gizmos.DrawWireSphere(pointB.position, 0.3f);
+            }
+            if (pointA != null && pointB != null)
+            {
+                Gizmos.DrawLine(pointA.position, pointB.position);
+
+                // Ø¥Ø¸Ù‡Ø§Ø± Ù†Ù‚Ø·Ø© Ø§Ù„Ø¨Ø¯Ø§ÙŠØ© Ø§Ù„Ù…Ø®ØªØ§Ø±Ø©
+                Gizmos.color = Color.green;
+                Vector3 startPos = Vector3.zero;
+                switch (startFrom)
+                {
+                    case StartPosition.CurrentPosition:
+                        startPos = transform.position;
+                        break;
+                    case StartPosition.PointA:
+                        startPos = pointA.position;
+                        break;
+                    case StartPosition.PointB:
+                        startPos = pointB.position;
+                        break;
+                    case StartPosition.Middle:
+                        startPos = (pointA.position + pointB.position) / 2f;
+                        break;
+                }
+                Gizmos.DrawWireCube(startPos, Vector3.one * 0.4f);
             }
         }
     }

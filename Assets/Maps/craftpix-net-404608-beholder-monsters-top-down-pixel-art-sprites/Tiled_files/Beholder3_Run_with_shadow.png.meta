@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 06135c1d42fb27548b93d5e9ea856500
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6771372885658947651
+    second: Beholder3_Run_with_shadow_0
+  - first:
+      213: 2676824926082682444
+    second: Beholder3_Run_with_shadow_1
+  - first:
+      213: -3171602334241247927
+    second: Beholder3_Run_with_shadow_2
+  - first:
+      213: 3628504939099330515
+    second: Beholder3_Run_with_shadow_3
+  - first:
+      213: -3174746309076848557
+    second: Beholder3_Run_with_shadow_4
+  - first:
+      213: 5594427987506535540
+    second: Beholder3_Run_with_shadow_5
+  - first:
+      213: 3265181397544201315
+    second: Beholder3_Run_with_shadow_6
+  - first:
+      213: -5100028332701659707
+    second: Beholder3_Run_with_shadow_7
+  - first:
+      213: 3480967216879906539
+    second: Beholder3_Run_with_shadow_8
+  - first:
+      213: -3564560298490219084
+    second: Beholder3_Run_with_shadow_9
+  - first:
+      213: -4993251419480826207
+    second: Beholder3_Run_with_shadow_10
+  - first:
+      213: -758118243557686936
+    second: Beholder3_Run_with_shadow_11
+  - first:
+      213: -7481611164178631824
+    second: Beholder3_Run_with_shadow_12
+  - first:
+      213: -2985109905626769164
+    second: Beholder3_Run_with_shadow_13
+  - first:
+      213: -5156962183860874819
+    second: Beholder3_Run_with_shadow_14
+  - first:
+      213: 7086878985403839885
+    second: Beholder3_Run_with_shadow_15
+  - first:
+      213: 557623759002577371
+    second: Beholder3_Run_with_shadow_16
+  - first:
+      213: -6552310437212384928
+    second: Beholder3_Run_with_shadow_17
+  - first:
+      213: -1079939016551690161
+    second: Beholder3_Run_with_shadow_18
+  - first:
+      213: 1578915880220269356
+    second: Beholder3_Run_with_shadow_19
+  - first:
+      213: 5975922904358010219
+    second: Beholder3_Run_with_shadow_20
+  - first:
+      213: -8555871495155387228
+    second: Beholder3_Run_with_shadow_21
+  - first:
+      213: 5236128542679971818
+    second: Beholder3_Run_with_shadow_22
+  - first:
+      213: -1065171848032069806
+    second: Beholder3_Run_with_shadow_23
+  - first:
+      213: 1326979903436949424
+    second: Beholder3_Run_with_shadow_24
+  - first:
+      213: -8808927902431704253
+    second: Beholder3_Run_with_shadow_25
+  - first:
+      213: 5995742691739024731
+    second: Beholder3_Run_with_shadow_26
+  - first:
+      213: 7003690829161372978
+    second: Beholder3_Run_with_shadow_27
+  - first:
+      213: -6647571412935909118
+    second: Beholder3_Run_with_shadow_28
+  - first:
+      213: -1963830456576951441
+    second: Beholder3_Run_with_shadow_29
+  - first:
+      213: 6331013184741455948
+    second: Beholder3_Run_with_shadow_30
+  - first:
+      213: 8166335055241804889
+    second: Beholder3_Run_with_shadow_31
+  - first:
+      213: 8916323211213724995
+    second: Beholder3_Run_with_shadow_32
+  - first:
+      213: -755280546647592204
+    second: Beholder3_Run_with_shadow_33
+  - first:
+      213: 7799172944874212353
+    second: Beholder3_Run_with_shadow_34
+  - first:
+      213: 4667695419738135866
+    second: Beholder3_Run_with_shadow_35
+  - first:
+      213: 1332809838950164371
+    second: Beholder3_Run_with_shadow_36
+  - first:
+      213: -7626049546130362251
+    second: Beholder3_Run_with_shadow_37
+  - first:
+      213: -7092601590488635827
+    second: Beholder3_Run_with_shadow_38
+  - first:
+      213: -7201610574238157212
+    second: Beholder3_Run_with_shadow_39
+  - first:
+      213: 7130608951802053422
+    second: Beholder3_Run_with_shadow_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 194
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340d96363cfb8fd50800000000000000
+      internalID: 6771372885658947651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 194
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec11d761ef52520800000000000000
+      internalID: 2676824926082682444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 194
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d20ca1b743cf3d0800000000000000
+      internalID: -3171602334241247927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d714c8740a0b5230800000000000000
+      internalID: 3628504939099330515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350fd7b6d0901f3d0800000000000000
+      internalID: -3174746309076848557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 194
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c94d43d9663ad40800000000000000
+      internalID: 5594427987506535540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce5df6e21405d20800000000000000
+      internalID: 3265181397544201315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 194
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdc3e4a04f0939b0800000000000000
+      internalID: -5100028332701659707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee28e4ad31ee4030800000000000000
+      internalID: 3480967216879906539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b70c5b43288ec0800000000000000
+      internalID: -3564560298490219084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 130
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae51a31a4864bab0800000000000000
+      internalID: -4993251419480826207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614003697f9a75f0800000000000000
+      internalID: -758118243557686936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 130
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733983194afb2890800000000000000
+      internalID: -7481611164178631824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 130
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8dd9b4b52c296d0800000000000000
+      internalID: -2985109905626769164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 130
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db199de673ace68b0800000000000000
+      internalID: -5156962183860874819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 130
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d853d2ba3e6a95260800000000000000
+      internalID: 7086878985403839885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9aaa9bad31db700800000000000000
+      internalID: 557623759002577371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0611fdb7f548115a0800000000000000
+      internalID: -6552310437212384928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f401a5baf294301f0800000000000000
+      internalID: -1079939016551690161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 76
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b90caa0af69e510800000000000000
+      internalID: 1578915880220269356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 78
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d316f383ebee250800000000000000
+      internalID: 5975922904358010219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 78
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47f53c430734980800000000000000
+      internalID: -8555871495155387228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 78
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae739b8da277aa840800000000000000
+      internalID: 5236128542679971818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 76
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2575d4509dfb731f0800000000000000
+      internalID: -1065171848032069806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7017801316a6210800000000000000
+      internalID: 1326979903436949424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b08839eb660c580800000000000000
+      internalID: -8808927902431704253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dbfb91638253350800000000000000
+      internalID: 5995742691739024731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d13d4b3bb123160800000000000000
+      internalID: 7003690829161372978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201e9e035051fb3a0800000000000000
+      internalID: -6647571412935909118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b33a4ca921fb4e0800000000000000
+      internalID: -1963830456576951441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4834d8c2f64cd750800000000000000
+      internalID: 6331013184741455948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cf1843776a45170800000000000000
+      internalID: 8166335055241804889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd6fa48b42dbb70800000000000000
+      internalID: 8916323211213724995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 13
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2be4f2854b485f0800000000000000
+      internalID: -755280546647592204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 15
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c8019b87a3c3c60800000000000000
+      internalID: 7799172944874212353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 14
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d9535f04cf6c040800000000000000
+      internalID: 4667695419738135866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39725cbac771f7210800000000000000
+      internalID: 1332809838950164371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570fe53a754da2690800000000000000
+      internalID: -7626049546130362251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ed818e64029d90800000000000000
+      internalID: -7092601590488635827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46676d7a65dbe0c90800000000000000
+      internalID: -7201610574238157212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder3_Run_with_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23c164ef0305f260800000000000000
+      internalID: 7130608951802053422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beholder3_Run_with_shadow_0: 6771372885658947651
+      Beholder3_Run_with_shadow_1: 2676824926082682444
+      Beholder3_Run_with_shadow_10: -4993251419480826207
+      Beholder3_Run_with_shadow_11: -758118243557686936
+      Beholder3_Run_with_shadow_12: -7481611164178631824
+      Beholder3_Run_with_shadow_13: -2985109905626769164
+      Beholder3_Run_with_shadow_14: -5156962183860874819
+      Beholder3_Run_with_shadow_15: 7086878985403839885
+      Beholder3_Run_with_shadow_16: 557623759002577371
+      Beholder3_Run_with_shadow_17: -6552310437212384928
+      Beholder3_Run_with_shadow_18: -1079939016551690161
+      Beholder3_Run_with_shadow_19: 1578915880220269356
+      Beholder3_Run_with_shadow_2: -3171602334241247927
+      Beholder3_Run_with_shadow_20: 5975922904358010219
+      Beholder3_Run_with_shadow_21: -8555871495155387228
+      Beholder3_Run_with_shadow_22: 5236128542679971818
+      Beholder3_Run_with_shadow_23: -1065171848032069806
+      Beholder3_Run_with_shadow_24: 1326979903436949424
+      Beholder3_Run_with_shadow_25: -8808927902431704253
+      Beholder3_Run_with_shadow_26: 5995742691739024731
+      Beholder3_Run_with_shadow_27: 7003690829161372978
+      Beholder3_Run_with_shadow_28: -6647571412935909118
+      Beholder3_Run_with_shadow_29: -1963830456576951441
+      Beholder3_Run_with_shadow_3: 3628504939099330515
+      Beholder3_Run_with_shadow_30: 6331013184741455948
+      Beholder3_Run_with_shadow_31: 8166335055241804889
+      Beholder3_Run_with_shadow_32: 8916323211213724995
+      Beholder3_Run_with_shadow_33: -755280546647592204
+      Beholder3_Run_with_shadow_34: 7799172944874212353
+      Beholder3_Run_with_shadow_35: 4667695419738135866
+      Beholder3_Run_with_shadow_36: 1332809838950164371
+      Beholder3_Run_with_shadow_37: -7626049546130362251
+      Beholder3_Run_with_shadow_38: -7092601590488635827
+      Beholder3_Run_with_shadow_39: -7201610574238157212
+      Beholder3_Run_with_shadow_4: -3174746309076848557
+      Beholder3_Run_with_shadow_40: 7130608951802053422
+      Beholder3_Run_with_shadow_5: 5594427987506535540
+      Beholder3_Run_with_shadow_6: 3265181397544201315
+      Beholder3_Run_with_shadow_7: -5100028332701659707
+      Beholder3_Run_with_shadow_8: 3480967216879906539
+      Beholder3_Run_with_shadow_9: -3564560298490219084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
