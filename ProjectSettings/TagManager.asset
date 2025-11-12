@@ -8,6 +8,7 @@ TagManager:
   - Platform
   - Ground
   - Spike
+  - Object
   layers:
   - Default
   - TransparentFX
