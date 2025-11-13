@@ -25,6 +25,7 @@ public class ResultScreen_Functions : MonoBehaviour
     //
     public void ShowResultScreen()
     {
+        resultScreenActive = true;
         resultScreen.SetActive(true);
         Time.timeScale = 0;
     }
