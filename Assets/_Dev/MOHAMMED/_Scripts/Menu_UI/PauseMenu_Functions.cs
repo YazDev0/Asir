@@ -4,19 +4,26 @@ using UnityEngine.SceneManagement;
 public class PauseMenu_Functions : MonoBehaviour
 {
     [SerializeField] GameObject pauseMenu;
+
+    public ResultScreen_Functions resultScreenActive;
     //
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && pauseMenu.activeSelf == false)
+        if (resultScreenActive.resultScreenActive == false)
         {
-            Pause();
-            Debug.Log("PressedT");
+            if (Input.GetKeyDown(KeyCode.Escape) && pauseMenu.activeSelf == false && resultScreenActive.resultScreenActive == false)
+            {
+                Pause();
+                Debug.Log("PressedT");
+            }
+            else if (Input.GetKeyDown(KeyCode.Escape) && pauseMenu.activeSelf == true &&
+                     resultScreenActive.resultScreenActive == false)
+            {
+                Resume();
+                Debug.Log("PressedF");
+            } 
         }
-        else if (Input.GetKeyDown(KeyCode.Escape) && pauseMenu.activeSelf == true)
-        {
-            Resume();
-            Debug.Log("PressedF");
-        }
+        else pauseMenu.SetActive(false);
     }
     //
     public void Pause()
