@@ -4,22 +4,24 @@ using UnityEngine.SceneManagement;
 public class ResultScreen_Functions : MonoBehaviour
 {
     [SerializeField] GameObject resultScreen;
+    // public Collider2D Trigger2D;
     public bool resultScreenActive;
     //
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && resultScreen.activeSelf == false)
+        
+    }
+    //
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
         {
-            resultScreenActive = true;
             ShowResultScreen();
-            Debug.Log("PressedT");
-        }
-        else if (Input.GetKeyDown(KeyCode.Escape) && resultScreen.activeSelf == true)
-        {
-            ShowResultScreen();
-            Debug.Log("PressedF");
+            Debug.Log("is triggered");
         }
     }
+    
     //
     public void ShowResultScreen()
     {
