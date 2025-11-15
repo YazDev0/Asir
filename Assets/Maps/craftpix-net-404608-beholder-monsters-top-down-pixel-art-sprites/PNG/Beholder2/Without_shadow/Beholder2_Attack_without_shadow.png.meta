@@ -1,0 +1,1989 @@
+fileFormatVersion: 2
+guid: 83da89f4d3ce4844cb17e5e6a6e4244c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -644275547600496762
+    second: Beholder2_Attack_without_shadow_0
+  - first:
+      213: 8977564743664938920
+    second: Beholder2_Attack_without_shadow_1
+  - first:
+      213: -8463496409866281586
+    second: Beholder2_Attack_without_shadow_2
+  - first:
+      213: 5716796522086507863
+    second: Beholder2_Attack_without_shadow_3
+  - first:
+      213: 7145632454585404148
+    second: Beholder2_Attack_without_shadow_4
+  - first:
+      213: 79913429880291917
+    second: Beholder2_Attack_without_shadow_5
+  - first:
+      213: 4848808645573952098
+    second: Beholder2_Attack_without_shadow_6
+  - first:
+      213: 1220736501465631335
+    second: Beholder2_Attack_without_shadow_7
+  - first:
+      213: -3115591097937233861
+    second: Beholder2_Attack_without_shadow_8
+  - first:
+      213: 262417775912822645
+    second: Beholder2_Attack_without_shadow_9
+  - first:
+      213: -4242497454710423492
+    second: Beholder2_Attack_without_shadow_10
+  - first:
+      213: -906179107193335242
+    second: Beholder2_Attack_without_shadow_11
+  - first:
+      213: -280247686832222364
+    second: Beholder2_Attack_without_shadow_12
+  - first:
+      213: -7535908929001242762
+    second: Beholder2_Attack_without_shadow_13
+  - first:
+      213: 3685328297458127905
+    second: Beholder2_Attack_without_shadow_14
+  - first:
+      213: 804312922784528540
+    second: Beholder2_Attack_without_shadow_15
+  - first:
+      213: -964877440157757436
+    second: Beholder2_Attack_without_shadow_16
+  - first:
+      213: -8791973469877778001
+    second: Beholder2_Attack_without_shadow_17
+  - first:
+      213: 5521482529459213048
+    second: Beholder2_Attack_without_shadow_18
+  - first:
+      213: 6396188188822932134
+    second: Beholder2_Attack_without_shadow_19
+  - first:
+      213: -4896883299714258863
+    second: Beholder2_Attack_without_shadow_20
+  - first:
+      213: 3550604174576274988
+    second: Beholder2_Attack_without_shadow_21
+  - first:
+      213: 6910739559512890808
+    second: Beholder2_Attack_without_shadow_22
+  - first:
+      213: -3448792358162714597
+    second: Beholder2_Attack_without_shadow_23
+  - first:
+      213: -691035268740643382
+    second: Beholder2_Attack_without_shadow_24
+  - first:
+      213: 4082842097136957955
+    second: Beholder2_Attack_without_shadow_25
+  - first:
+      213: 5458963082539454782
+    second: Beholder2_Attack_without_shadow_26
+  - first:
+      213: -6069995245126633601
+    second: Beholder2_Attack_without_shadow_27
+  - first:
+      213: -635021563914033415
+    second: Beholder2_Attack_without_shadow_28
+  - first:
+      213: 1049009174688917989
+    second: Beholder2_Attack_without_shadow_29
+  - first:
+      213: -4157620073612249756
+    second: Beholder2_Attack_without_shadow_30
+  - first:
+      213: 8255290823500623891
+    second: Beholder2_Attack_without_shadow_31
+  - first:
+      213: 828572872409076749
+    second: Beholder2_Attack_without_shadow_32
+  - first:
+      213: -7062501844038383910
+    second: Beholder2_Attack_without_shadow_33
+  - first:
+      213: 6184687881134282410
+    second: Beholder2_Attack_without_shadow_34
+  - first:
+      213: 9049857589104322109
+    second: Beholder2_Attack_without_shadow_35
+  - first:
+      213: 1721958079388393264
+    second: Beholder2_Attack_without_shadow_36
+  - first:
+      213: -2133712199954068253
+    second: Beholder2_Attack_without_shadow_37
+  - first:
+      213: 9118680642355747333
+    second: Beholder2_Attack_without_shadow_38
+  - first:
+      213: -6105715063872330888
+    second: Beholder2_Attack_without_shadow_39
+  - first:
+      213: 1651729836183854188
+    second: Beholder2_Attack_without_shadow_40
+  - first:
+      213: 7680287877256012462
+    second: Beholder2_Attack_without_shadow_41
+  - first:
+      213: 7524516084021297618
+    second: Beholder2_Attack_without_shadow_42
+  - first:
+      213: -6319807992845441107
+    second: Beholder2_Attack_without_shadow_43
+  - first:
+      213: 3277867678326328740
+    second: Beholder2_Attack_without_shadow_44
+  - first:
+      213: 8891340301386135612
+    second: Beholder2_Attack_without_shadow_45
+  - first:
+      213: -2129555721195483318
+    second: Beholder2_Attack_without_shadow_46
+  - first:
+      213: -1488958585331101531
+    second: Beholder2_Attack_without_shadow_47
+  - first:
+      213: 5815956393481143488
+    second: Beholder2_Attack_without_shadow_48
+  - first:
+      213: -5782087897487448805
+    second: Beholder2_Attack_without_shadow_49
+  - first:
+      213: -3784682120828277098
+    second: Beholder2_Attack_without_shadow_50
+  - first:
+      213: -3203034030944678530
+    second: Beholder2_Attack_without_shadow_51
+  - first:
+      213: 2852997695085703233
+    second: Beholder2_Attack_without_shadow_52
+  - first:
+      213: 4947862776706293275
+    second: Beholder2_Attack_without_shadow_53
+  - first:
+      213: 8201538754534868179
+    second: Beholder2_Attack_without_shadow_54
+  - first:
+      213: 6827726761047609583
+    second: Beholder2_Attack_without_shadow_55
+  - first:
+      213: -5483302268552053901
+    second: Beholder2_Attack_without_shadow_56
+  - first:
+      213: 669469443546357343
+    second: Beholder2_Attack_without_shadow_57
+  - first:
+      213: -837287241155288807
+    second: Beholder2_Attack_without_shadow_58
+  - first:
+      213: -4420295587574598677
+    second: Beholder2_Attack_without_shadow_59
+  - first:
+      213: 761223339841926355
+    second: Beholder2_Attack_without_shadow_60
+  - first:
+      213: -7371797743198037828
+    second: Beholder2_Attack_without_shadow_61
+  - first:
+      213: -3757960660441874745
+    second: Beholder2_Attack_without_shadow_62
+  - first:
+      213: -780426885556819664
+    second: Beholder2_Attack_without_shadow_63
+  - first:
+      213: 2104603934253993558
+    second: Beholder2_Attack_without_shadow_64
+  - first:
+      213: -4224605818086284643
+    second: Beholder2_Attack_without_shadow_65
+  - first:
+      213: -1039028229741357478
+    second: Beholder2_Attack_without_shadow_66
+  - first:
+      213: 6383344122858806673
+    second: Beholder2_Attack_without_shadow_67
+  - first:
+      213: -7455530227466310634
+    second: Beholder2_Attack_without_shadow_68
+  - first:
+      213: 8705341565305493064
+    second: Beholder2_Attack_without_shadow_69
+  - first:
+      213: -2487648086986820775
+    second: Beholder2_Attack_without_shadow_70
+  - first:
+      213: -2630765722646879512
+    second: Beholder2_Attack_without_shadow_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 200
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6875dcf8dc21f07f0800000000000000
+      internalID: -644275547600496762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 200
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af2836b197b69c70800000000000000
+      internalID: 8977564743664938920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 206
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d50245bde9b8a80800000000000000
+      internalID: -8463496409866281586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a720e524265f40800000000000000
+      internalID: 5716796522086507863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 199
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fac017bbd26a2360800000000000000
+      internalID: 7145632454585404148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 198
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d424cc057d8eb1100800000000000000
+      internalID: 79913429880291917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 196
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624747e5cd6a4340800000000000000
+      internalID: 4848808645573952098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 193
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a463e516de0f010800000000000000
+      internalID: 1220736501465631335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 192
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f41e476233c4d0800000000000000
+      internalID: -3115591097937233861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 194
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577280ca39b44a300800000000000000
+      internalID: 262417775912822645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 193
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c308c7bea0f9f15c0800000000000000
+      internalID: -4242497454710423492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 197
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325cd437ea9c63f0800000000000000
+      internalID: -906179107193335242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 192
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f8d31b63c5c1cf0800000000000000
+      internalID: -280247686832222364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 193
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fbf2b81c21b6790800000000000000
+      internalID: -7535908929001242762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124dfa29f8ae42330800000000000000
+      internalID: 3685328297458127905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 136
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f3d2875e792b00800000000000000
+      internalID: 804312922784528540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 136
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400db9f84111c92f0800000000000000
+      internalID: -964877440157757436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 142
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c64506b2acf580800000000000000
+      internalID: -8791973469877778001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f211f14b1f30ac40800000000000000
+      internalID: 5521482529459213048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 135
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa075fe443d3c850800000000000000
+      internalID: 6396188188822932134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 134
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582dfd6596ca0cb0800000000000000
+      internalID: -4896883299714258863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 132
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e43a35fa7464130800000000000000
+      internalID: 3550604174576274988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 129
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd5104c301e7ef50800000000000000
+      internalID: 6910739559512890808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 128
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1031ab6f9d6320d0800000000000000
+      internalID: -3448792358162714597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 130
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac582779513f866f0800000000000000
+      internalID: -691035268740643382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 129
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30afbd9614b29a830800000000000000
+      internalID: 4082842097136957955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 133
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315cb0300222cb40800000000000000
+      internalID: 5458963082539454782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 128
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77bae91c7b03cba0800000000000000
+      internalID: -6069995245126633601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 129
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e03a8043ff27f0800000000000000
+      internalID: -635021563914033415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e965775944de8e00800000000000000
+      internalID: 1049009174688917989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465fe41329a2d46c0800000000000000
+      internalID: -4157620073612249756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 74
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310fb4cf34fa09270800000000000000
+      internalID: 8255290823500623891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 78
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04d77233aeaf7b00800000000000000
+      internalID: 828572872409076749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 71
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60d88ddf3fcfd90800000000000000
+      internalID: -7062501844038383910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 70
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa61ca92cdc64d550800000000000000
+      internalID: 6184687881134282410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36af62778d879d70800000000000000
+      internalID: 9049857589104322109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f1f08ffbf95e710800000000000000
+      internalID: 1721958079388393264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 65
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec02dc1f088362e0800000000000000
+      internalID: -2133712199954068253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 74
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a58db3bbf0c8e70800000000000000
+      internalID: 9118680642355747333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 64
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736326bf74244ba0800000000000000
+      internalID: -6105715063872330888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 66
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c17a6e88f1ce610800000000000000
+      internalID: 1651729836183854188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 88
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea26598e12dd59a60800000000000000
+      internalID: 7680287877256012462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 80
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18dc603837c6860800000000000000
+      internalID: 7524516084021297618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 70
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e5c14d188b48a0800000000000000
+      internalID: -6319807992845441107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_44
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 64
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad006b59435d7d20800000000000000
+      internalID: 3277867678326328740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 68
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c383c3155e2646b70800000000000000
+      internalID: 8891340301386135612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_46
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 65
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f0ebcba5c4272e0800000000000000
+      internalID: -2129555721195483318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 65
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a052143e08265be0800000000000000
+      internalID: -1488958585331101531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_48
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 73
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c40b9e868d66b050800000000000000
+      internalID: 5815956393481143488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_49
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 69
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15ec2a21b5e1cfa0800000000000000
+      internalID: -5782087897487448805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e2248c9ab1a7bc0800000000000000
+      internalID: -3784682120828277098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0e0ee4898c83d0800000000000000
+      internalID: -3203034030944678530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 10
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1407790b942e79720800000000000000
+      internalID: 2852997695085703233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ed4f20bf65aa440800000000000000
+      internalID: 4947862776706293275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d486ab2b08b1d170800000000000000
+      internalID: 8201538754534868179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0dba77055f0ce50800000000000000
+      internalID: 6827726761047609583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 6
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b7cd673a567e3b0800000000000000
+      internalID: -5483302268552053901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 7
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e1f8279ee6a4900800000000000000
+      internalID: 669469443546357343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 9
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911e8f7b0bb5164f0800000000000000
+      internalID: -837287241155288807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_59
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3b3643594f7a2c0800000000000000
+      internalID: -4420295587574598677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_60
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b30e2898609a00800000000000000
+      internalID: 761223339841926355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_61
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb897a0920d12b990800000000000000
+      internalID: -7371797743198037828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_62
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 6
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce387a90ba09dbc0800000000000000
+      internalID: -3757960660441874745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_63
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 16
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a839e1ed5b25f0800000000000000
+      internalID: -780426885556819664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_64
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4916a02e053d10800000000000000
+      internalID: 2104603934253993558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_65
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922be0346f2f55c0800000000000000
+      internalID: -4224605818086284643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56d9ae7451a491f0800000000000000
+      internalID: -1039028229741357478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_67
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d931ac8a1369850800000000000000
+      internalID: 6383344122858806673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ceeab52c2a88890800000000000000
+      internalID: -7455530227466310634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_69
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 9
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8461a70e7069fc870800000000000000
+      internalID: 8705341565305493064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_70
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95378f8be391a7dd0800000000000000
+      internalID: -2487648086986820775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Attack_without_shadow_71
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2eb5e7384ad7bd0800000000000000
+      internalID: -2630765722646879512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beholder2_Attack_without_shadow_0: -644275547600496762
+      Beholder2_Attack_without_shadow_1: 8977564743664938920
+      Beholder2_Attack_without_shadow_10: -4242497454710423492
+      Beholder2_Attack_without_shadow_11: -906179107193335242
+      Beholder2_Attack_without_shadow_12: -280247686832222364
+      Beholder2_Attack_without_shadow_13: -7535908929001242762
+      Beholder2_Attack_without_shadow_14: 3685328297458127905
+      Beholder2_Attack_without_shadow_15: 804312922784528540
+      Beholder2_Attack_without_shadow_16: -964877440157757436
+      Beholder2_Attack_without_shadow_17: -8791973469877778001
+      Beholder2_Attack_without_shadow_18: 5521482529459213048
+      Beholder2_Attack_without_shadow_19: 6396188188822932134
+      Beholder2_Attack_without_shadow_2: -8463496409866281586
+      Beholder2_Attack_without_shadow_20: -4896883299714258863
+      Beholder2_Attack_without_shadow_21: 3550604174576274988
+      Beholder2_Attack_without_shadow_22: 6910739559512890808
+      Beholder2_Attack_without_shadow_23: -3448792358162714597
+      Beholder2_Attack_without_shadow_24: -691035268740643382
+      Beholder2_Attack_without_shadow_25: 4082842097136957955
+      Beholder2_Attack_without_shadow_26: 5458963082539454782
+      Beholder2_Attack_without_shadow_27: -6069995245126633601
+      Beholder2_Attack_without_shadow_28: -635021563914033415
+      Beholder2_Attack_without_shadow_29: 1049009174688917989
+      Beholder2_Attack_without_shadow_3: 5716796522086507863
+      Beholder2_Attack_without_shadow_30: -4157620073612249756
+      Beholder2_Attack_without_shadow_31: 8255290823500623891
+      Beholder2_Attack_without_shadow_32: 828572872409076749
+      Beholder2_Attack_without_shadow_33: -7062501844038383910
+      Beholder2_Attack_without_shadow_34: 6184687881134282410
+      Beholder2_Attack_without_shadow_35: 9049857589104322109
+      Beholder2_Attack_without_shadow_36: 1721958079388393264
+      Beholder2_Attack_without_shadow_37: -2133712199954068253
+      Beholder2_Attack_without_shadow_38: 9118680642355747333
+      Beholder2_Attack_without_shadow_39: -6105715063872330888
+      Beholder2_Attack_without_shadow_4: 7145632454585404148
+      Beholder2_Attack_without_shadow_40: 1651729836183854188
+      Beholder2_Attack_without_shadow_41: 7680287877256012462
+      Beholder2_Attack_without_shadow_42: 7524516084021297618
+      Beholder2_Attack_without_shadow_43: -6319807992845441107
+      Beholder2_Attack_without_shadow_44: 3277867678326328740
+      Beholder2_Attack_without_shadow_45: 8891340301386135612
+      Beholder2_Attack_without_shadow_46: -2129555721195483318
+      Beholder2_Attack_without_shadow_47: -1488958585331101531
+      Beholder2_Attack_without_shadow_48: 5815956393481143488
+      Beholder2_Attack_without_shadow_49: -5782087897487448805
+      Beholder2_Attack_without_shadow_5: 79913429880291917
+      Beholder2_Attack_without_shadow_50: -3784682120828277098
+      Beholder2_Attack_without_shadow_51: -3203034030944678530
+      Beholder2_Attack_without_shadow_52: 2852997695085703233
+      Beholder2_Attack_without_shadow_53: 4947862776706293275
+      Beholder2_Attack_without_shadow_54: 8201538754534868179
+      Beholder2_Attack_without_shadow_55: 6827726761047609583
+      Beholder2_Attack_without_shadow_56: -5483302268552053901
+      Beholder2_Attack_without_shadow_57: 669469443546357343
+      Beholder2_Attack_without_shadow_58: -837287241155288807
+      Beholder2_Attack_without_shadow_59: -4420295587574598677
+      Beholder2_Attack_without_shadow_6: 4848808645573952098
+      Beholder2_Attack_without_shadow_60: 761223339841926355
+      Beholder2_Attack_without_shadow_61: -7371797743198037828
+      Beholder2_Attack_without_shadow_62: -3757960660441874745
+      Beholder2_Attack_without_shadow_63: -780426885556819664
+      Beholder2_Attack_without_shadow_64: 2104603934253993558
+      Beholder2_Attack_without_shadow_65: -4224605818086284643
+      Beholder2_Attack_without_shadow_66: -1039028229741357478
+      Beholder2_Attack_without_shadow_67: 6383344122858806673
+      Beholder2_Attack_without_shadow_68: -7455530227466310634
+      Beholder2_Attack_without_shadow_69: 8705341565305493064
+      Beholder2_Attack_without_shadow_7: 1220736501465631335
+      Beholder2_Attack_without_shadow_70: -2487648086986820775
+      Beholder2_Attack_without_shadow_71: -2630765722646879512
+      Beholder2_Attack_without_shadow_8: -3115591097937233861
+      Beholder2_Attack_without_shadow_9: 262417775912822645
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

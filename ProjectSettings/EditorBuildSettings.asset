@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/_Dev/MOHAMMED/Scenes/Menu/Main Menu.unity
+    guid: 749b5ba11fca97c4f84f80888dc3c997
+  - enabled: 1
+    path: Assets/Public/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/_Dev/MOHAMMED/Scenes/Prefab Test/Pause Menu.unity
+    guid: 46aad3c970a9bb847b9952a027bf47ab
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9519e4d089282ab4a8a32e3d8ad8dbb2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

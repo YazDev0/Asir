@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 2f9c24ce33b7d91418f3b8413ea728e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1519512399683352994
+    second: Beholder2_Death_with_shadow_0
+  - first:
+      213: 7182280947073945492
+    second: Beholder2_Death_with_shadow_1
+  - first:
+      213: 6933896820645163976
+    second: Beholder2_Death_with_shadow_2
+  - first:
+      213: -5288282279685831597
+    second: Beholder2_Death_with_shadow_3
+  - first:
+      213: 658977762140687458
+    second: Beholder2_Death_with_shadow_4
+  - first:
+      213: -2941386692059270685
+    second: Beholder2_Death_with_shadow_5
+  - first:
+      213: -1178650007807537442
+    second: Beholder2_Death_with_shadow_6
+  - first:
+      213: 7144270558493494500
+    second: Beholder2_Death_with_shadow_7
+  - first:
+      213: -4430008077602735421
+    second: Beholder2_Death_with_shadow_8
+  - first:
+      213: 5192472008481092336
+    second: Beholder2_Death_with_shadow_9
+  - first:
+      213: -7383300848769651812
+    second: Beholder2_Death_with_shadow_10
+  - first:
+      213: 4020130182842213472
+    second: Beholder2_Death_with_shadow_11
+  - first:
+      213: 6572479163754545261
+    second: Beholder2_Death_with_shadow_12
+  - first:
+      213: -2648415158802326773
+    second: Beholder2_Death_with_shadow_13
+  - first:
+      213: 2553417693991015015
+    second: Beholder2_Death_with_shadow_14
+  - first:
+      213: 8177768159536974158
+    second: Beholder2_Death_with_shadow_15
+  - first:
+      213: -2124311240806053086
+    second: Beholder2_Death_with_shadow_16
+  - first:
+      213: -7955945386101745523
+    second: Beholder2_Death_with_shadow_17
+  - first:
+      213: -7448704818024945524
+    second: Beholder2_Death_with_shadow_18
+  - first:
+      213: 7090460760163939482
+    second: Beholder2_Death_with_shadow_19
+  - first:
+      213: 7367401115198912332
+    second: Beholder2_Death_with_shadow_20
+  - first:
+      213: 7602969764548229977
+    second: Beholder2_Death_with_shadow_21
+  - first:
+      213: 1915554174247469724
+    second: Beholder2_Death_with_shadow_22
+  - first:
+      213: 2872039520166566468
+    second: Beholder2_Death_with_shadow_23
+  - first:
+      213: 5709736155376321524
+    second: Beholder2_Death_with_shadow_24
+  - first:
+      213: -4592032963630182724
+    second: Beholder2_Death_with_shadow_25
+  - first:
+      213: -1790185200330240819
+    second: Beholder2_Death_with_shadow_26
+  - first:
+      213: 1077933887215008591
+    second: Beholder2_Death_with_shadow_27
+  - first:
+      213: -2249120445131323519
+    second: Beholder2_Death_with_shadow_28
+  - first:
+      213: 4801644853471160090
+    second: Beholder2_Death_with_shadow_29
+  - first:
+      213: -8327680300931395158
+    second: Beholder2_Death_with_shadow_30
+  - first:
+      213: 7493297803738134431
+    second: Beholder2_Death_with_shadow_31
+  - first:
+      213: 2495249561533050786
+    second: Beholder2_Death_with_shadow_32
+  - first:
+      213: 8261408334313145083
+    second: Beholder2_Death_with_shadow_33
+  - first:
+      213: 5849255181457617016
+    second: Beholder2_Death_with_shadow_34
+  - first:
+      213: -6554733714594140072
+    second: Beholder2_Death_with_shadow_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 194
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568211f58b99eae0800000000000000
+      internalID: -1519512399683352994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f066fc7769ca360800000000000000
+      internalID: 7182280947073945492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f3c7cb662a3060800000000000000
+      internalID: 6933896820645163976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 194
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354455ff84f3c96b0800000000000000
+      internalID: -5288282279685831597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c074388c8252900800000000000000
+      internalID: 658977762140687458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 193
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1feb043681e27d0800000000000000
+      internalID: -2941386692059270685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 192
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edece1a001894afe0800000000000000
+      internalID: -1178650007807537442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec4942983c852360800000000000000
+      internalID: 7144270558493494500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cab066ef137582c0800000000000000
+      internalID: -4430008077602735421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 130
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2bca3e7cd5f0840800000000000000
+      internalID: 5192472008481092336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bae371ffe398990800000000000000
+      internalID: -7383300848769651812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064e22b0a1f5ac730800000000000000
+      internalID: 4020130182842213472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 130
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d600f391af2263b50800000000000000
+      internalID: 6572479163754545261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 130
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bd3d9e170fe3bd0800000000000000
+      internalID: -2648415158802326773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 129
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76218853ddf8f6320800000000000000
+      internalID: 2553417693991015015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4983bc30d44d7170800000000000000
+      internalID: 8177768159536974158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 128
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc26b7e2ee482e0800000000000000
+      internalID: -2124311240806053086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 128
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d885ff0e2ddc69190800000000000000
+      internalID: -7955945386101745523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88e1e4de62e0a890800000000000000
+      internalID: -7448704818024945524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94fa679e70666260800000000000000
+      internalID: 7090460760163939482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c477f35b7444e3660800000000000000
+      internalID: 7367401115198912332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbee5f7bc238960800000000000000
+      internalID: 7602969764548229977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 66
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9289085f5a659a10800000000000000
+      internalID: 1915554174247469724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a59641ab88bd720800000000000000
+      internalID: 2872039520166566468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 66
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3096628ce0d3f40800000000000000
+      internalID: 5709736155376321524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 66
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe40f56952d540c0800000000000000
+      internalID: -4592032963630182724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 66
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc872c8b0cf727e0800000000000000
+      internalID: -1790185200330240819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b7ec6c82795fe00800000000000000
+      internalID: 1077933887215008591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18701ea1fd489c0e0800000000000000
+      internalID: -2249120445131323519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a172bb4dd8ed2a240800000000000000
+      internalID: 4801644853471160090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa157f363e22e6c80800000000000000
+      internalID: -8327680300931395158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97b60cb6aa8df760800000000000000
+      internalID: 7493297803738134431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af602d7148e0a220800000000000000
+      internalID: 2495249561533050786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2cf27fb1b66a270800000000000000
+      internalID: 8261408334313145083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870f46bc89abc2150800000000000000
+      internalID: 5849255181457617016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder2_Death_with_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850f6504a68e805a0800000000000000
+      internalID: -6554733714594140072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beholder2_Death_with_shadow_0: -1519512399683352994
+      Beholder2_Death_with_shadow_1: 7182280947073945492
+      Beholder2_Death_with_shadow_10: -7383300848769651812
+      Beholder2_Death_with_shadow_11: 4020130182842213472
+      Beholder2_Death_with_shadow_12: 6572479163754545261
+      Beholder2_Death_with_shadow_13: -2648415158802326773
+      Beholder2_Death_with_shadow_14: 2553417693991015015
+      Beholder2_Death_with_shadow_15: 8177768159536974158
+      Beholder2_Death_with_shadow_16: -2124311240806053086
+      Beholder2_Death_with_shadow_17: -7955945386101745523
+      Beholder2_Death_with_shadow_18: -7448704818024945524
+      Beholder2_Death_with_shadow_19: 7090460760163939482
+      Beholder2_Death_with_shadow_2: 6933896820645163976
+      Beholder2_Death_with_shadow_20: 7367401115198912332
+      Beholder2_Death_with_shadow_21: 7602969764548229977
+      Beholder2_Death_with_shadow_22: 1915554174247469724
+      Beholder2_Death_with_shadow_23: 2872039520166566468
+      Beholder2_Death_with_shadow_24: 5709736155376321524
+      Beholder2_Death_with_shadow_25: -4592032963630182724
+      Beholder2_Death_with_shadow_26: -1790185200330240819
+      Beholder2_Death_with_shadow_27: 1077933887215008591
+      Beholder2_Death_with_shadow_28: -2249120445131323519
+      Beholder2_Death_with_shadow_29: 4801644853471160090
+      Beholder2_Death_with_shadow_3: -5288282279685831597
+      Beholder2_Death_with_shadow_30: -8327680300931395158
+      Beholder2_Death_with_shadow_31: 7493297803738134431
+      Beholder2_Death_with_shadow_32: 2495249561533050786
+      Beholder2_Death_with_shadow_33: 8261408334313145083
+      Beholder2_Death_with_shadow_34: 5849255181457617016
+      Beholder2_Death_with_shadow_35: -6554733714594140072
+      Beholder2_Death_with_shadow_4: 658977762140687458
+      Beholder2_Death_with_shadow_5: -2941386692059270685
+      Beholder2_Death_with_shadow_6: -1178650007807537442
+      Beholder2_Death_with_shadow_7: 7144270558493494500
+      Beholder2_Death_with_shadow_8: -4430008077602735421
+      Beholder2_Death_with_shadow_9: 5192472008481092336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

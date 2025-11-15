@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: a78e36b1c5ca291458a98fa40dc7fc72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4138001987490430073
+    second: Beholder1_Walk_with_shadow_0
+  - first:
+      213: 2195374564091472358
+    second: Beholder1_Walk_with_shadow_1
+  - first:
+      213: -2471077582513230996
+    second: Beholder1_Walk_with_shadow_2
+  - first:
+      213: -6365645430419299622
+    second: Beholder1_Walk_with_shadow_3
+  - first:
+      213: 2472436722315971198
+    second: Beholder1_Walk_with_shadow_4
+  - first:
+      213: 767036831976343943
+    second: Beholder1_Walk_with_shadow_5
+  - first:
+      213: -754361408200008427
+    second: Beholder1_Walk_with_shadow_6
+  - first:
+      213: 8743966666167653448
+    second: Beholder1_Walk_with_shadow_7
+  - first:
+      213: -5420461504589616727
+    second: Beholder1_Walk_with_shadow_8
+  - first:
+      213: 2192068316236664097
+    second: Beholder1_Walk_with_shadow_9
+  - first:
+      213: 7935885768219073109
+    second: Beholder1_Walk_with_shadow_10
+  - first:
+      213: -8166403332320477810
+    second: Beholder1_Walk_with_shadow_11
+  - first:
+      213: 2577578858413276297
+    second: Beholder1_Walk_with_shadow_12
+  - first:
+      213: 3856738882289024166
+    second: Beholder1_Walk_with_shadow_13
+  - first:
+      213: -7282494280958033774
+    second: Beholder1_Walk_with_shadow_14
+  - first:
+      213: -3748964213042704531
+    second: Beholder1_Walk_with_shadow_15
+  - first:
+      213: -7216953695526437961
+    second: Beholder1_Walk_with_shadow_16
+  - first:
+      213: 1396409857137247315
+    second: Beholder1_Walk_with_shadow_17
+  - first:
+      213: -7638326845278019811
+    second: Beholder1_Walk_with_shadow_18
+  - first:
+      213: 2746692160394452091
+    second: Beholder1_Walk_with_shadow_19
+  - first:
+      213: 8253139827107606491
+    second: Beholder1_Walk_with_shadow_20
+  - first:
+      213: -2123753717324903781
+    second: Beholder1_Walk_with_shadow_21
+  - first:
+      213: 1880644036253766024
+    second: Beholder1_Walk_with_shadow_22
+  - first:
+      213: 6916189264013399413
+    second: Beholder1_Walk_with_shadow_23
+  - first:
+      213: -1245793033303201619
+    second: Beholder1_Walk_with_shadow_24
+  - first:
+      213: 5455911874597848360
+    second: Beholder1_Walk_with_shadow_25
+  - first:
+      213: 4303492269659782194
+    second: Beholder1_Walk_with_shadow_26
+  - first:
+      213: -6670880735671079568
+    second: Beholder1_Walk_with_shadow_27
+  - first:
+      213: -452130490447392917
+    second: Beholder1_Walk_with_shadow_28
+  - first:
+      213: 8667399638302531699
+    second: Beholder1_Walk_with_shadow_29
+  - first:
+      213: -8940330257437878587
+    second: Beholder1_Walk_with_shadow_30
+  - first:
+      213: 1193430103732031509
+    second: Beholder1_Walk_with_shadow_31
+  - first:
+      213: 1763564856572802397
+    second: Beholder1_Walk_with_shadow_32
+  - first:
+      213: -9190505184901621038
+    second: Beholder1_Walk_with_shadow_33
+  - first:
+      213: -578797522267317550
+    second: Beholder1_Walk_with_shadow_34
+  - first:
+      213: -5482648571142261399
+    second: Beholder1_Walk_with_shadow_35
+  - first:
+      213: -7661679300947932035
+    second: Beholder1_Walk_with_shadow_36
+  - first:
+      213: -7778577889561907332
+    second: Beholder1_Walk_with_shadow_37
+  - first:
+      213: 798565957194440798
+    second: Beholder1_Walk_with_shadow_38
+  - first:
+      213: -5533083360141546613
+    second: Beholder1_Walk_with_shadow_39
+  - first:
+      213: 4269998406638882195
+    second: Beholder1_Walk_with_shadow_40
+  - first:
+      213: -6732474014183404341
+    second: Beholder1_Walk_with_shadow_41
+  - first:
+      213: 397163164909032985
+    second: Beholder1_Walk_with_shadow_42
+  - first:
+      213: -8464375969798998798
+    second: Beholder1_Walk_with_shadow_43
+  - first:
+      213: -3244220657445296368
+    second: Beholder1_Walk_with_shadow_44
+  - first:
+      213: -4363853588537701317
+    second: Beholder1_Walk_with_shadow_45
+  - first:
+      213: 2415795049034424907
+    second: Beholder1_Walk_with_shadow_46
+  - first:
+      213: -2188804090847875821
+    second: Beholder1_Walk_with_shadow_47
+  - first:
+      213: 8494533779015809718
+    second: Beholder1_Walk_with_shadow_48
+  - first:
+      213: 3397417883080713149
+    second: Beholder1_Walk_with_shadow_49
+  - first:
+      213: -1847730695380279380
+    second: Beholder1_Walk_with_shadow_50
+  - first:
+      213: -2277971773208345491
+    second: Beholder1_Walk_with_shadow_51
+  - first:
+      213: -867792503158096980
+    second: Beholder1_Walk_with_shadow_52
+  - first:
+      213: 6157342716102608009
+    second: Beholder1_Walk_with_shadow_53
+  - first:
+      213: -252983905658812743
+    second: Beholder1_Walk_with_shadow_54
+  - first:
+      213: -1403098213946602693
+    second: Beholder1_Walk_with_shadow_55
+  - first:
+      213: -2080768150454938275
+    second: Beholder1_Walk_with_shadow_56
+  - first:
+      213: 2506111518645735047
+    second: Beholder1_Walk_with_shadow_57
+  - first:
+      213: -2782881458809935312
+    second: Beholder1_Walk_with_shadow_58
+  - first:
+      213: -5787450430688858745
+    second: Beholder1_Walk_with_shadow_59
+  - first:
+      213: -6231670333619331403
+    second: Beholder1_Walk_with_shadow_60
+  - first:
+      213: -3730877100014613253
+    second: Beholder1_Walk_with_shadow_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 206
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c3a3032e22d6930800000000000000
+      internalID: 4138001987490430073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 208
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a991d889877e10800000000000000
+      internalID: 2195374564091472358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 209
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2ed1f708f4bdd0800000000000000
+      internalID: -2471077582513230996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 206
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2e4c9253fa8a7a0800000000000000
+      internalID: -6365645430419299622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 204
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a4643791cdf4220800000000000000
+      internalID: 2472436722315971198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 203
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789479b4fef05aa00800000000000000
+      internalID: 767036831976343943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 204
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d99f7cb48f785f0800000000000000
+      internalID: -754361408200008427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 205
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84497c8fa5fc85970800000000000000
+      internalID: 8743966666167653448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a14cfaf6a6c4b0800000000000000
+      internalID: -5420461504589616727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dcca0058acb6e10800000000000000
+      internalID: 2192068316236664097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a96c06f0ee12e60800000000000000
+      internalID: 7935885768219073109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db87ccf6b1bae80800000000000000
+      internalID: -8166403332320477810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb74ca05665c320800000000000000
+      internalID: 2577578858413276297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac364e5493e58530800000000000000
+      internalID: 3856738882289024166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290cea829026fea90800000000000000
+      internalID: -7282494280958033774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 194
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f00fd39e009fbc0800000000000000
+      internalID: -3748964213042704531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 141
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb34b9d9da38db90800000000000000
+      internalID: -7216953695526437961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 142
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3540587dd5b016310800000000000000
+      internalID: 1396409857137247315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 144
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f9fdc24363ff590800000000000000
+      internalID: -7638326845278019811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 141
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c59af97f53e1620800000000000000
+      internalID: 2746692160394452091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 140
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa06c12fa098270800000000000000
+      internalID: 8253139827107606491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 139
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a0f680f39e682e0800000000000000
+      internalID: -2123753717324903781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 140
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881dcd179c3691a10800000000000000
+      internalID: 1880644036253766024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 141
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57593e8fd7d3bff50800000000000000
+      internalID: 6916189264013399413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da86e4236dd06bee0800000000000000
+      internalID: -1245793033303201619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8258d3b71fa47bb40800000000000000
+      internalID: 5455911874597848360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cf5ba1b6319bb30800000000000000
+      internalID: 4303492269659782194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d245390554c63a0800000000000000
+      internalID: -6670880735671079568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f82c4e6b5b9b9f0800000000000000
+      internalID: -452130490447392917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3702f579c0ac84870800000000000000
+      internalID: 8667399638302531699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c61dbeaff09de380800000000000000
+      internalID: -8940330257437878587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 130
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51094353b5aef8010800000000000000
+      internalID: 1193430103732031509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55726ea4e0797810800000000000000
+      internalID: 1763564856572802397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 78
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da9d8b4a34c47080800000000000000
+      internalID: -9190505184901621038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 80
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da516858b2b7f7f0800000000000000
+      internalID: -578797522267317550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96533c04c28b9e3b0800000000000000
+      internalID: -5482648571142261399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 78
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c0904e44f3ca590800000000000000
+      internalID: -7661679300947932035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 77
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f64f24f90fc0490800000000000000
+      internalID: -7778577889561907332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 66
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506b40d183151b00800000000000000
+      internalID: 798565957194440798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_39
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 76
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b632edff98633b0800000000000000
+      internalID: -5533083360141546613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc13b6de4124b30800000000000000
+      internalID: 4269998406638882195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcccc05ed827192a0800000000000000
+      internalID: -6732474014183404341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d5425bc1038500800000000000000
+      internalID: 397163164909032985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f437c2d6ee788a80800000000000000
+      internalID: -8464375969798998798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0172dfb20863af2d0800000000000000
+      internalID: -3244220657445296368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c856b284a7073c0800000000000000
+      internalID: -4363853588537701317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4228d33cc0a68120800000000000000
+      internalID: 2415795049034424907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 13
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d2712b64ecf91e0800000000000000
+      internalID: -2188804090847875821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 16
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba3bce4775a2e570800000000000000
+      internalID: 8494533779015809718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3e59a709d062f20800000000000000
+      internalID: 3397417883080713149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 17
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafd545e8ba8b56e0800000000000000
+      internalID: -1847730695380279380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 15
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64cc81ddb40360e0800000000000000
+      internalID: -2277971773208345491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 12
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabb38ee05bf4f3f0800000000000000
+      internalID: -867792503158096980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98482a9c396437550800000000000000
+      internalID: 6157342716102608009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_54
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 12
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c0596a783d7cf0800000000000000
+      internalID: -252983905658812743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4abcbb91378ce0800000000000000
+      internalID: -1403098213946602693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55df2c3460af13e0800000000000000
+      internalID: -2080768150454938275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec464f52f77c220800000000000000
+      internalID: 2506111518645735047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aec9bbe083169d0800000000000000
+      internalID: -2782881458809935312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_59
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78deb9b1f78deafa0800000000000000
+      internalID: -5787450430688858745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_60
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be974f29d8a489a0800000000000000
+      internalID: -6231670333619331403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beholder1_Walk_with_shadow_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc4df86b03493cc0800000000000000
+      internalID: -3730877100014613253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beholder1_Walk_with_shadow_0: 4138001987490430073
+      Beholder1_Walk_with_shadow_1: 2195374564091472358
+      Beholder1_Walk_with_shadow_10: 7935885768219073109
+      Beholder1_Walk_with_shadow_11: -8166403332320477810
+      Beholder1_Walk_with_shadow_12: 2577578858413276297
+      Beholder1_Walk_with_shadow_13: 3856738882289024166
+      Beholder1_Walk_with_shadow_14: -7282494280958033774
+      Beholder1_Walk_with_shadow_15: -3748964213042704531
+      Beholder1_Walk_with_shadow_16: -7216953695526437961
+      Beholder1_Walk_with_shadow_17: 1396409857137247315
+      Beholder1_Walk_with_shadow_18: -7638326845278019811
+      Beholder1_Walk_with_shadow_19: 2746692160394452091
+      Beholder1_Walk_with_shadow_2: -2471077582513230996
+      Beholder1_Walk_with_shadow_20: 8253139827107606491
+      Beholder1_Walk_with_shadow_21: -2123753717324903781
+      Beholder1_Walk_with_shadow_22: 1880644036253766024
+      Beholder1_Walk_with_shadow_23: 6916189264013399413
+      Beholder1_Walk_with_shadow_24: -1245793033303201619
+      Beholder1_Walk_with_shadow_25: 5455911874597848360
+      Beholder1_Walk_with_shadow_26: 4303492269659782194
+      Beholder1_Walk_with_shadow_27: -6670880735671079568
+      Beholder1_Walk_with_shadow_28: -452130490447392917
+      Beholder1_Walk_with_shadow_29: 8667399638302531699
+      Beholder1_Walk_with_shadow_3: -6365645430419299622
+      Beholder1_Walk_with_shadow_30: -8940330257437878587
+      Beholder1_Walk_with_shadow_31: 1193430103732031509
+      Beholder1_Walk_with_shadow_32: 1763564856572802397
+      Beholder1_Walk_with_shadow_33: -9190505184901621038
+      Beholder1_Walk_with_shadow_34: -578797522267317550
+      Beholder1_Walk_with_shadow_35: -5482648571142261399
+      Beholder1_Walk_with_shadow_36: -7661679300947932035
+      Beholder1_Walk_with_shadow_37: -7778577889561907332
+      Beholder1_Walk_with_shadow_38: 798565957194440798
+      Beholder1_Walk_with_shadow_39: -5533083360141546613
+      Beholder1_Walk_with_shadow_4: 2472436722315971198
+      Beholder1_Walk_with_shadow_40: 4269998406638882195
+      Beholder1_Walk_with_shadow_41: -6732474014183404341
+      Beholder1_Walk_with_shadow_42: 397163164909032985
+      Beholder1_Walk_with_shadow_43: -8464375969798998798
+      Beholder1_Walk_with_shadow_44: -3244220657445296368
+      Beholder1_Walk_with_shadow_45: -4363853588537701317
+      Beholder1_Walk_with_shadow_46: 2415795049034424907
+      Beholder1_Walk_with_shadow_47: -2188804090847875821
+      Beholder1_Walk_with_shadow_48: 8494533779015809718
+      Beholder1_Walk_with_shadow_49: 3397417883080713149
+      Beholder1_Walk_with_shadow_5: 767036831976343943
+      Beholder1_Walk_with_shadow_50: -1847730695380279380
+      Beholder1_Walk_with_shadow_51: -2277971773208345491
+      Beholder1_Walk_with_shadow_52: -867792503158096980
+      Beholder1_Walk_with_shadow_53: 6157342716102608009
+      Beholder1_Walk_with_shadow_54: -252983905658812743
+      Beholder1_Walk_with_shadow_55: -1403098213946602693
+      Beholder1_Walk_with_shadow_56: -2080768150454938275
+      Beholder1_Walk_with_shadow_57: 2506111518645735047
+      Beholder1_Walk_with_shadow_58: -2782881458809935312
+      Beholder1_Walk_with_shadow_59: -5787450430688858745
+      Beholder1_Walk_with_shadow_6: -754361408200008427
+      Beholder1_Walk_with_shadow_60: -6231670333619331403
+      Beholder1_Walk_with_shadow_61: -3730877100014613253
+      Beholder1_Walk_with_shadow_7: 8743966666167653448
+      Beholder1_Walk_with_shadow_8: -5420461504589616727
+      Beholder1_Walk_with_shadow_9: 2192068316236664097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
