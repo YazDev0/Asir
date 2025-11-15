@@ -15,11 +15,24 @@ public class PlayerController : MonoBehaviour
 
     [Header("Color System")]
     public PlayerColor currentColor = PlayerColor.Red;
+    public float colorDuration = 5f;
+    private float colorTimer = 0f;
+    private bool isColorActive = false;
 
     [Header("Particle Systems")]
     public ParticleSystem redParticle;
     public ParticleSystem greenParticle;
-    public ParticleSystem blueParticle;
+    public ParticleSystem dustParticle;
+
+    [Header("Sound Effects")]
+    public AudioClip footstepSound;
+    public AudioClip jumpSound;
+    public AudioClip colorChangeSound;
+    public AudioClip landingSound;
+
+    private AudioSource audioSource;
+    private float footstepTimer = 0f;
+    private float footstepDelay = 0.3f;
 
     [Header("Ground Detection")]
     public Transform groundCheck;
@@ -43,22 +56,26 @@ public class PlayerController : MonoBehaviour
     public enum PlayerColor
     {
         Red,
-        Green,
-        Blue
+        Green
     }
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
+
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
 
         if (animator == null)
             animator = GetComponent<Animator>();
 
         CreateGroundCheck();
         SetupRigidbody();
-        UpdatePlayerParticles();
-        UpdateAllBoxes();
+
+        StopAllColorParticles();
+        UpdateAllBoxesImmediately();
 
         if (wallLayer == 0) wallLayer = groundLayer;
         Debug.Log("🎮 Player Ready with Wall Jump & Particles!");
@@ -79,7 +96,9 @@ public class PlayerController : MonoBehaviour
         HandleJump();
         HandleWallJump();
         HandleColorChange();
+        HandleColorTimer();
         HandleCooldowns();
+        HandleFootsteps();
         UpdateAnimations();
         CheckFallState();
         CheckLanding();
@@ -98,11 +117,17 @@ public class PlayerController : MonoBehaviour
 
     void CheckGrounded()
     {
+        bool wasGrounded = isGrounded;
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
         if (isGrounded)
         {
             canWallJump = true;
+
+            if (!wasGrounded && dustParticle != null)
+            {
+                dustParticle.Play();
+            }
         }
     }
 
@@ -184,11 +209,35 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    void HandleFootsteps()
+    {
+        if (isGrounded && Mathf.Abs(rb.linearVelocity.x) > 0.1f)
+        {
+            footstepTimer -= Time.deltaTime;
+            if (footstepTimer <= 0f)
+            {
+                PlaySound(footstepSound, 0.8f);
+                footstepTimer = footstepDelay;
+
+                if (dustParticle != null && !dustParticle.isPlaying)
+                {
+                    dustParticle.Play();
+                }
+            }
+        }
+        else
+        {
+            footstepTimer = 0f;
+        }
+    }
+
     void HandleJump()
     {
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded && wallJumpCooldown <= 0)
         {
             PerformJump(jumpForce);
+            PlaySound(jumpSound, 0.5f);
+
             if (animator != null)
             {
                 animator.SetTrigger("Jump");
@@ -202,6 +251,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isWallSliding && canWallJump && wallJumpCooldown <= 0)
         {
             PerformWallJump();
+            PlaySound(jumpSound, 0.5f);
         }
     }
 
@@ -219,8 +269,6 @@ public class PlayerController : MonoBehaviour
             animator.SetTrigger("WallJump");
             animator.SetBool("IsJumping", true);
         }
-
-        Debug.Log($"🦎 Wall Jump! Direction: {jumpDirection}");
     }
 
     void PerformJump(float force)
@@ -238,67 +286,114 @@ public class PlayerController : MonoBehaviour
 
     void HandleColorChange()
     {
-        if (Input.GetKeyDown(KeyCode.Alpha1)) ChangeColor(PlayerColor.Red);
-        if (Input.GetKeyDown(KeyCode.Alpha2)) ChangeColor(PlayerColor.Green);
-        if (Input.GetKeyDown(KeyCode.Alpha3)) ChangeColor(PlayerColor.Blue);
-        if (Input.GetKeyDown(KeyCode.E)) ChangeToNextColor();
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            ActivateRedColor();
+            // ✅ إضافة تغيير اللون النشط
+            ColorBox.ChangeActiveColor(ColorBox.BoxColor.Red);
+        }
+        else if (Input.GetKeyDown(KeyCode.Q))
+        {
+            ActivateGreenColor();
+            // ✅ إضافة تغيير اللون النشط
+            ColorBox.ChangeActiveColor(ColorBox.BoxColor.Green);
+        }
     }
 
-    void ChangeToNextColor()
+    void ActivateRedColor()
     {
-        if (currentColor == PlayerColor.Red)
-            currentColor = PlayerColor.Green;
-        else if (currentColor == PlayerColor.Green)
-            currentColor = PlayerColor.Blue;
-        else if (currentColor == PlayerColor.Blue)
-            currentColor = PlayerColor.Red;
+        currentColor = PlayerColor.Red;
+        ActivateColor();
+    }
 
-        UpdatePlayerParticles();
-        UpdateAllBoxes();
+    void ActivateGreenColor()
+    {
+        currentColor = PlayerColor.Green;
+        ActivateColor();
+    }
+
+    void ActivateColor()
+    {
+        PlaySound(colorChangeSound, 0.1f);
+
+        StartColorParticle();
+
+        colorTimer = colorDuration;
+        isColorActive = true;
+
+        UpdateAllBoxesImmediately();
 
         if (animator != null)
             animator.SetTrigger("ColorChange");
+
+        Debug.Log($"🎨 {currentColor} activated for {colorDuration} seconds");
     }
 
-    void ChangeColor(PlayerColor newColor)
+    void HandleColorTimer()
     {
-        if (currentColor == newColor) return;
-        currentColor = newColor;
-        UpdatePlayerParticles();
-        UpdateAllBoxes();
+        if (isColorActive)
+        {
+            colorTimer -= Time.deltaTime;
 
-        if (animator != null)
-            animator.SetTrigger("ColorChange");
+            if (colorTimer <= 0f)
+            {
+                isColorActive = false;
+                StopAllColorParticles();
+                UpdateAllBoxesImmediately();
+                Debug.Log("⏰ Color effect ended");
+            }
+        }
     }
 
-    void UpdatePlayerParticles()
+    void StartColorParticle()
     {
-        // إيقاف كل البارتيكلز أولاً
-        if (redParticle != null) redParticle.Stop();
-        if (greenParticle != null) greenParticle.Stop();
-        if (blueParticle != null) blueParticle.Stop();
+        StopAllColorParticles();
 
-        // تشغيل البارتيكل المناسب للون الحالي
         switch (currentColor)
         {
             case PlayerColor.Red:
-                if (redParticle != null) redParticle.Play();
+                if (redParticle != null)
+                {
+                    redParticle.Play();
+                }
                 break;
             case PlayerColor.Green:
-                if (greenParticle != null) greenParticle.Play();
-                break;
-            case PlayerColor.Blue:
-                if (blueParticle != null) blueParticle.Play();
+                if (greenParticle != null)
+                {
+                    greenParticle.Play();
+                }
                 break;
         }
     }
 
-    void UpdateAllBoxes()
+    void StopAllColorParticles()
+    {
+        if (redParticle != null)
+        {
+            redParticle.Stop();
+            redParticle.Clear();
+        }
+        if (greenParticle != null)
+        {
+            greenParticle.Stop();
+            greenParticle.Clear();
+        }
+    }
+
+    void UpdateAllBoxesImmediately()
     {
         ColorBox[] allBoxes = FindObjectsOfType<ColorBox>();
         foreach (ColorBox box in allBoxes)
         {
             box.UpdateBoxState(this);
+        }
+    }
+
+    void PlaySound(AudioClip clip, float volume = 1f)
+    {
+        if (clip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(clip, volume);
         }
     }
 
@@ -315,14 +410,12 @@ public class PlayerController : MonoBehaviour
         animator.SetBool("IsTouchingWall", isTouchingWall);
         animator.SetInteger("PlayerColor", (int)currentColor);
 
-        // منطق القفز والسقوط المنفصل
         bool isJumping = verticalVelocity > 0.5f && !isGrounded && !isWallSliding;
         bool isFalling = verticalVelocity < -0.5f && !isGrounded && !isWallSliding;
 
         animator.SetBool("IsJumping", isJumping);
         animator.SetBool("IsFalling", isFalling);
 
-        // إعادة تعيين المحفزات عند الهبوط
         if (isGrounded && (isJumping || isFalling))
         {
             animator.ResetTrigger("Jump");
@@ -334,14 +427,12 @@ public class PlayerController : MonoBehaviour
 
     void CheckFallState()
     {
-        // إذا كان يسقط ولمس الجدار، لا يعتبر falling عادي
         if (isWallSliding)
         {
             animator.SetBool("IsFalling", false);
             return;
         }
 
-        // الكشف عن السقوط الحقيقي
         if (!isGrounded && rb.linearVelocity.y < -2f)
         {
             if (animator != null && !animator.GetBool("IsFalling"))
@@ -357,7 +448,8 @@ public class PlayerController : MonoBehaviour
     {
         if (wasFalling && isGrounded)
         {
-            // هبوط ناجح - يمكنك إضافة تأثيرات هنا
+            PlaySound(landingSound, 0.3f);
+
             if (animator != null)
             {
                 animator.SetTrigger("Land");
@@ -372,6 +464,11 @@ public class PlayerController : MonoBehaviour
     public PlayerColor GetPlayerColorType()
     {
         return currentColor;
+    }
+
+    public bool IsColorActive()
+    {
+        return isColorActive;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
