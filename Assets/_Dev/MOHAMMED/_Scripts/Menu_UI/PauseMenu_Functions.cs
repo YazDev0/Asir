@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,6 +8,14 @@ public class PauseMenu_Functions : MonoBehaviour
 
     public ResultScreen_Functions resultScreenActive;
     //
+    private void Awake()
+    {
+        if (resultScreenActive == null)
+        {
+            resultScreenActive = FindObjectOfType<ResultScreen_Functions>();
+        }
+    }
+
     void Update()
     {
         if (resultScreenActive.resultScreenActive == false)
