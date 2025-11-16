@@ -131454,11 +131454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &240705656 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 487899396505000554, guid: c493df181313c694ebec14f0ff63c7db, type: 3}
-  m_PrefabInstance: {fileID: 240705654}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &253485978
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -147833,6 +147828,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1369239630 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1466530757471484026, guid: c493df181313c694ebec14f0ff63c7db, type: 3}
+  m_PrefabInstance: {fileID: 240705654}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1431402465
 GameObject:
   m_ObjectHideFlags: 0
@@ -151038,7 +151038,7 @@ PrefabInstance:
     - target: {fileID: 1022716041741983533, guid: 5e1981c99b195124487b4074ab79bbe8, type: 3}
       propertyPath: resultScreen
       value: 
-      objectReference: {fileID: 240705656}
+      objectReference: {fileID: 1369239630}
     - target: {fileID: 1022716041741983533, guid: 5e1981c99b195124487b4074ab79bbe8, type: 3}
       propertyPath: resultScreenActive
       value: 0
