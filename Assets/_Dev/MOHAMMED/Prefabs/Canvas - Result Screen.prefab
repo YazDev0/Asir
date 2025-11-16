@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6956143438027552700}
   - component: {fileID: 9032426280328171214}
   - component: {fileID: 6573010157282904894}
+  - component: {fileID: 7780711454498313631}
   - component: {fileID: 1361344265452937914}
   m_Layer: 5
   m_Name: Canvas - Result Screen
@@ -151,6 +152,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.0212402, y: 2.8659668}
   m_EdgeRadius: 0
+--- !u!114 &7780711454498313631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 487899396505000554}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c729ca7f50b8c1242ab8e5d312f426a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resultScreen: {fileID: 1466530757471484026}
+  resultScreenActive: 0
+  timeText: {fileID: 2442328379010585337}
 --- !u!114 &1361344265452937914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -281,7 +297,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 5.76
-  m_Text: QUIT
+  m_Text: Return
 --- !u!1 &3107062358121463228
 GameObject:
   m_ObjectHideFlags: 0
@@ -927,7 +943,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 5.76
-  m_Text: RETRY
+  m_Text: Retry
 --- !u!1 &7197423469459406850
 GameObject:
   m_ObjectHideFlags: 0
