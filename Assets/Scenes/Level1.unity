@@ -131430,6 +131430,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Retry
       objectReference: {fileID: 0}
+    - target: {fileID: 7780711454498313631, guid: c493df181313c694ebec14f0ff63c7db, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8328514109669543906, guid: c493df181313c694ebec14f0ff63c7db, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
