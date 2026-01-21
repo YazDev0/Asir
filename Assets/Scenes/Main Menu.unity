@@ -1267,7 +1267,7 @@ GameObject:
   - component: {fileID: 1242447245}
   - component: {fileID: 1242447244}
   m_Layer: 0
-  m_Name: MANAGER LEVEL
+  m_Name: Level2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2276,7 +2276,7 @@ GameObject:
   - component: {fileID: 2114268958}
   - component: {fileID: 2114268957}
   m_Layer: 0
-  m_Name: MANAGER LEVEL (1)
+  m_Name: Training Level
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
